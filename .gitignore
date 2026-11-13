@@ -1,0 +1,20 @@
+# Unreal Engine generated dirs
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
